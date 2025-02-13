@@ -1957,7 +1957,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cc9f0;
+			background-color: #006d72;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -2157,8 +2157,8 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			border-color: #006d72;
+			box-shadow: 0 0 0 1px #006d72;
 		}
 
 	select {
@@ -2190,8 +2190,8 @@ input, select, textarea {
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #8cc9f0;
-		box-shadow: 0 0 0 1px #8cc9f0;
+		border-color: #006d72;
+		box-shadow: 0 0 0 1px #006d72;
 	}
 
 	::-webkit-input-placeholder {
